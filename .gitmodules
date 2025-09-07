@@ -1,0 +1,3 @@
+[submodule "accord-py"]
+	path = accord-py
+	url = https://github.com/CMGSK/accord-py
